@@ -1,0 +1,7 @@
+# veggies
+# fruit
+# Meat
+# Dairy
+
+shrimp
+food
